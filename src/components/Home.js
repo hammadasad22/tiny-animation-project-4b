@@ -135,7 +135,7 @@ function Home() {
                     <button>VIEW OUR PROJECTS</button>
                 </div>
                 <div className="second-center">
-                    <img src="https://i.ibb.co/f1GtDvd/undraw-progressive-app-m9ms.png" alt="undraw-progressive-app-m9ms" width="200px" heigh="150px" />
+                    <img src="https://i.ibb.co/QH5q7vS/undraw-experience-design-eq3j.png" alt="undraw-progressive-app-m9ms" width="200px" heigh="150px" />
                     <img src="https://i.ibb.co/sRwhqLn/undraw-development-ouy3-1.png" alt="undraw-development-ouy3-1" width="200px" heigh="150px" />
                     <img src="https://i.ibb.co/CJ16Qqr/undraw-our-solution-htvp.png" alt="undraw-our-solution-htvp" width="200px" heigh="150px" />
                 </div>
