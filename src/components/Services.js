@@ -20,7 +20,7 @@ function Services() {
             </div>
             <div className="service-second" data-aos="fade-right">
                 <div>
-                    <img src="https://i.ibb.co/f1GtDvd/undraw-progressive-app-m9ms.png" alt="undraw-progressive-app-m9ms" width="200px" heigh="150px" />
+                    <img src="https://i.ibb.co/QH5q7vS/undraw-experience-design-eq3j.png" alt="undraw-progressive-app-m9ms" width="200px" heigh="150px" />
                     <h4>DESIGN AND UI/UX</h4>
                 </div>
                 <div>                    
